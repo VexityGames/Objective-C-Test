@@ -1,2 +1,3 @@
 NSString *firstName = @"Brendon";
 NSString *lastName = @"Ho";
+NSLog(Hello %@ %@, firstName, lastName);
