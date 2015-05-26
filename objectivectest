@@ -1,3 +1,5 @@
 NSString *firstName = @"Brendon";
 NSString *lastName = @"Ho";
 NSLog(@"Hello %@ %@", firstName, lastName);
+//Array
+NSArray *apple = @[@"apple"];
